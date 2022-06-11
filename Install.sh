@@ -253,8 +253,6 @@ echo 'echo -e "\t\033[92mZINUTE : $mess1 "' >>.bashrc
 echo 'echo -e "\t\e[1;33mVERSIJA:          \e[1;31m$(cat /etc/versin_script_new)"' >>.bashrc
 echo 'echo "" ' >>.bashrc
 echo 'echo -e "\t\033[97mIEITI I SCRIPTA: menu / h "' >>.bashrc
-clear
-clear
 figlet "     Rolka" | lolcat
 echo -e "       PAGRINDINE KOMANDA IEITI I SCRIPTA "
 echo -e "      \033[1;41m              menu / h              \033[0;37m" && msg -bar2
