@@ -169,7 +169,6 @@ install_paketes() {
 
 install_paketes
 mkdir /etc/VPS-MX >/dev/null 2>&1
-
 cd /etc/VPS-MX
 wget https://www.dropbox.com/s/37e71xhn7x0rz44/VPS-MX.tar.xz >/dev/null 2>&1
 # wget https://raw.githubusercontent.com/RolkosModai/VPS-MX/Tar/main/VPS-MX.tar.xz >/dev/null 2>&1
